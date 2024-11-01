@@ -1,0 +1,3 @@
+.tscp-toggler:checked+label+.tscp-date-selector{display:block}.tscp-date-selector{display:none;margin-top:10px}.tscp-date-selector+.description{display:block;margin-top:5px;font-size:0.85em;color:#666}.tscp-month,.tscp-long,.tscp-short{box-sizing:border-box;padding:0 3px !important}.tscp-month{width:4.5em}.tscp-long{width:3.5em;text-align:right}.tscp-short{text-align:right;width:2em}.column-expires{width:2em;text-align:center}thead .column-expires,tfoot .column-expires{text-align:center}thead .column-expires .dashicons,tfoot .column-expires .dashicons{color:#888}.column-expires .dashicons-yes{color:#4fb061}.column-expires .dashicons-minus{color:#ddd}.column-expires .dashicons-no{color:#ff3b35}
+
+/*# sourceMappingURL=map/admin.css.map */

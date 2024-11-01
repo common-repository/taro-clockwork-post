@@ -1,0 +1,6 @@
+/*!
+ * Editor input.
+ *
+ * @handle tscp-editor-input
+ * @deps wp-plugins, wp-edit-post, wp-components, wp-data, wp-api-fetch, wp-i18n, wp-element
+ */
